@@ -1,0 +1,6 @@
+print("Hello World")
+print("Hello World")
+print("Hello World")
+print("Hello World")
+print(2+2)
+print(0/2)
