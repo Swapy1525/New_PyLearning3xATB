@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Add P2">
-      <change afterPath="$PROJECT_DIR$/Ex001_06062024/Lab003.py" afterDir="false" />
+    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Add Lab003">
+      <change afterPath="$PROJECT_DIR$/Ex001_07062024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001_07062024/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001_07062024/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001_07062024/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001_07062024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001_07062024/Lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex001_07062024/Lab021.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex001_06062024/Lab0002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex001_06062024/Lab0002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Swapy1525"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Swapy1525&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Swapy1525/New_PyLearning3xATB.git",
-    "accountId": "52e460f1-2375-4859-a449-df5bbb81baac"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Swapy1525/New_PyLearning3xATB.git&quot;,
+    &quot;accountId&quot;: &quot;52e460f1-2375-4859-a449-df5bbb81baac&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2hVMHoQLtbnyH9MvWEUQPEiArIK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,11 +57,23 @@
     "Python.Lab0002.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/swapy/PycharmProjects/New_PyLearning3xATB/Ex001_06062024",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\swapy\PycharmProjects\New_PyLearning3xATB\Ex001_06062024" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,12 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717675038854</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Lab003">
+      <option name="closed" value="true" />
+      <created>1717685181655</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717685181655</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add P1" />
     <MESSAGE value="Add P2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add P2" />
+    <MESSAGE value="Add Lab003" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lab003" />
   </component>
 </project>
