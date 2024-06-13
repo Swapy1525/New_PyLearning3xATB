@@ -15,6 +15,6 @@ Num1=float(input("Number 1 is"))
 Num2=float(input("Number 2 is"))
 
 
-print(f" {Num1} {'greater than' if Num1 > Num2 else 'is less than' if Num2 > Num1 else 'is equal to '} {Num2}")12
+print(f" {Num1} {'greater than' if Num1 > Num2 else 'is less than' if Num2 > Num1 else 'is equal to '} {Num2}")
 
 
