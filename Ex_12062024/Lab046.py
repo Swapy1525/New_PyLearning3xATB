@@ -33,3 +33,7 @@ else:
 
 #if 90<= score <=100:
 
+# we can use loops within loops
+# else is not always mandatory
+
+
