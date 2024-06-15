@@ -9,7 +9,9 @@ if side1==side2==side3:
 elif side1==side2 or side2==side3 or side1==side3:
     print("Triangle is isosceles")
 else:
-    print("Triangle is scalene ")
+    print("Triangle is scalene")
+
+
 
 
 
