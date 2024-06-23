@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Add Ex001_07062024">
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab031.py" afterDir="false" />
+    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 18062024">
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab)97.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab096.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +60,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01.executor": "Run",
+    "Python.02.executor": "Run",
     "Python.Lab0002.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
@@ -70,21 +78,100 @@
     "Python.Lab029.executor": "Run",
     "Python.Lab030.executor": "Run",
     "Python.Lab031.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046.executor": "Run",
+    "Python.Lab047.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab049.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab052.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Lab085.executor": "Run",
+    "Python.Lab086.executor": "Run",
+    "Python.Lab087.executor": "Run",
+    "Python.Lab088.executor": "Run",
+    "Python.Lab089.executor": "Run",
+    "Python.Lab090.executor": "Run",
+    "Python.Lab091.executor": "Run",
+    "Python.Lab092.executor": "Run",
+    "Python.Lab093.executor": "Run",
+    "Python.Lab094.executor": "Run",
+    "Python.Lab095.executor": "Run",
+    "Python.Lab096.executor": "Run",
+    "Python.Task01.executor": "Run",
+    "Python.Task02.executor": "Run",
+    "Python.lab050.executor": "Run",
+    "Python.lab066.executor": "Run",
+    "Python.task _1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/swapy/PycharmProjects/New_PyLearning3xATB/Ex001_06062024",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.python"
   }
 }]]></component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+    <option name="mySupportGeventDebugging" value="true" />
+    <option name="myDropIntoDebuggerOnFailedTests" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\swapy\PycharmProjects\New_PyLearning3xATB\Ex001_06062024" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Lab042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="New_PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_12062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_12062024/Lab042.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab042" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
       </set>
     </attachedChunks>
   </component>
@@ -129,7 +216,79 @@
       <option name="project" value="LOCAL" />
       <updated>1717850259028</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Ex001_12062024">
+      <option name="closed" value="true" />
+      <created>1718215539301</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718215539301</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Task">
+      <option name="closed" value="true" />
+      <created>1718283270089</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718283270089</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Task">
+      <option name="closed" value="true" />
+      <created>1718283359707</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718283359707</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added 12062024">
+      <option name="closed" value="true" />
+      <created>1718291655782</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718291655782</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added 12062024">
+      <option name="closed" value="true" />
+      <created>1718292031349</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718292031349</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added 12062024">
+      <option name="closed" value="true" />
+      <created>1718292448546</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718292448546</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added 14062024">
+      <option name="closed" value="true" />
+      <created>1718358858999</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718358858999</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added 14062024_1">
+      <option name="closed" value="true" />
+      <created>1718441592176</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718441592176</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added 18062024">
+      <option name="closed" value="true" />
+      <created>1718735834509</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718735834509</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -137,6 +296,12 @@
     <MESSAGE value="Add P2" />
     <MESSAGE value="Add Lab003" />
     <MESSAGE value="Add Ex001_07062024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Ex001_07062024" />
+    <MESSAGE value="Add Ex001_12062024" />
+    <MESSAGE value="Added Task" />
+    <MESSAGE value="Added 12062024" />
+    <MESSAGE value="Added 14062024" />
+    <MESSAGE value="Added 14062024_1" />
+    <MESSAGE value="Added 18062024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 18062024" />
   </component>
 </project>
