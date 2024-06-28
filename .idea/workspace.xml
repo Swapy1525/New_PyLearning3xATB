@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 23062024">
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/#Recursion109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Filter2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab104 Filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/Lab107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/lab110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24062024/map.py" afterDir="false" />
+    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 26062024">
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab111 OPPS concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_26062024/lab113.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,16 +116,21 @@
     "Python.Lab096.executor": "Run",
     "Python.Lab104 Filter.executor": "Run",
     "Python.Lab107.executor": "Run",
+    "Python.Lab112.executor": "Run",
+    "Python.Lab114.executor": "Run",
+    "Python.Lab115.executor": "Run",
+    "Python.Lab116.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
     "Python.lab050.executor": "Run",
     "Python.lab066.executor": "Run",
     "Python.lab110.executor": "Run",
+    "Python.lab113.executor": "Run",
     "Python.map.executor": "Run",
     "Python.task _1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/swapy/PycharmProjects/New_PyLearning3xATB/Ex001_06062024",
+    "last_opened_file_path": "C:/Users/swapy/PycharmProjects/New_PyLearning3xATB/Ex_26062024",
     "settings.editor.selected.configurable": "reference.idesettings.debugger.python"
   }
 }]]></component>
@@ -137,6 +141,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\swapy\PycharmProjects\New_PyLearning3xATB\Ex_26062024" />
       <recent name="C:\Users\swapy\PycharmProjects\New_PyLearning3xATB\Ex001_06062024" />
     </key>
   </component>
@@ -297,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719147689704</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added 26062024">
+      <option name="closed" value="true" />
+      <created>1719472265970</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719472265970</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -312,6 +325,7 @@
     <MESSAGE value="Added 14062024_1" />
     <MESSAGE value="Added 18062024" />
     <MESSAGE value="Added 23062024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 23062024" />
+    <MESSAGE value="Added 26062024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 26062024" />
   </component>
 </project>
