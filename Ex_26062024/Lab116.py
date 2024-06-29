@@ -10,3 +10,4 @@ class students:
 
 new_std =students()
 new_std.display()
+
