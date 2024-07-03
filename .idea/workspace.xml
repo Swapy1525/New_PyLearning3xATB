@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 28062024">
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab126.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab127 Encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab127.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab131.py" afterDir="false" />
+    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 29062024">
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab139.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_01072024/Lab143Abstract class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_26062024/Lab116.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_26062024/Lab116.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +134,16 @@
     "Python.Lab129.executor": "Run",
     "Python.Lab130.executor": "Run",
     "Python.Lab131.executor": "Run",
+    "Python.Lab134.executor": "Run",
+    "Python.Lab135.executor": "Run",
+    "Python.Lab136.executor": "Run",
+    "Python.Lab137.executor": "Run",
+    "Python.Lab138.executor": "Run",
+    "Python.Lab139.executor": "Run",
+    "Python.Lab140.executor": "Run",
+    "Python.Lab141.executor": "Run",
+    "Python.Lab142.executor": "Run",
+    "Python.Lab143.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
     "Python.lab050.executor": "Run",
@@ -334,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719577292336</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added 29062024">
+      <option name="closed" value="true" />
+      <created>1719665444434</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719665444434</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -351,6 +368,7 @@
     <MESSAGE value="Added 23062024" />
     <MESSAGE value="Added 26062024" />
     <MESSAGE value="Added 28062024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 28062024" />
+    <MESSAGE value="Added 29062024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 29062024" />
   </component>
 </project>
