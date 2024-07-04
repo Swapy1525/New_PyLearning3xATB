@@ -1,0 +1,20 @@
+def f1():
+    print("f1")
+
+def f2():
+    print("f2")
+
+def f3():
+    print("f3")
+
+def main():
+    print("heeeellllo")
+
+if __name__ == "__main__":
+    main()
+    f1()
+    f2()
+    f3()
+
+#python allows us have more than one main function
+
