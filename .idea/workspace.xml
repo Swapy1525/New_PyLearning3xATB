@@ -4,35 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 03072024">
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab151.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab152.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab153.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab154.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab155.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab156.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab157.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab158.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab160.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab161.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab162.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab163.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Lab164.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/Swapy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/lab159.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/swapy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_03072024/testdata.txt" afterDir="false" />
+    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 04072024">
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/APITesting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/APITesting_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/HTTP.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab167.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab168.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab170.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Learning.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Swapy/Swapy1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Testdata.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab134.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab134.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab135.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab135.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab136.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab136.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab137.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab137.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab138.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab138.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab139.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab139.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab140.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab140.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab141.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab141.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab142.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab142.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_01072024/Lab143Abstract class.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/Ex_01072024/Lab143Abstract class.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +162,13 @@
     "Python.Lab162.executor": "Run",
     "Python.Lab163.executor": "Run",
     "Python.Lab164.executor": "Run",
+    "Python.Lab165.executor": "Run",
+    "Python.Lab166.executor": "Run",
+    "Python.Lab167.executor": "Run",
+    "Python.Lab168.executor": "Run",
+    "Python.Lab169.executor": "Run",
+    "Python.Lab170.executor": "Run",
+    "Python.Lab171.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
     "Python.lab050.executor": "Run",
@@ -188,7 +181,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/swapy/PycharmProjects/New_PyLearning3xATB/Ex_28062024",
-    "settings.editor.selected.configurable": "reference.idesettings.debugger.python"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="PyDebuggerOptionsProvider">
@@ -297,10 +290,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab042" />
         <item itemvalue="Python.Lab162" />
         <item itemvalue="Python.Lab161" />
         <item itemvalue="Python.Lab160" />
-        <item itemvalue="Python.Lab042" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +457,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720005892919</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added 04072024">
+      <option name="closed" value="true" />
+      <created>1720098428385</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1720098428386</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -483,6 +484,7 @@
     <MESSAGE value="Added 28062024" />
     <MESSAGE value="Added 29062024" />
     <MESSAGE value="Added 03072024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 03072024" />
+    <MESSAGE value="Added 04072024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 04072024" />
   </component>
 </project>
