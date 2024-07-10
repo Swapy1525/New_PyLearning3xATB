@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 04072024">
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/APITesting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/APITesting_2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/HTTP.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab166.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab167.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab168.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab169.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab170.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab171.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Lab172.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Learning.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Swapy/Swapy1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_05072024/Testdata.txt" afterDir="false" />
+    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 06072024">
+      <change afterPath="$PROJECT_DIR$/July/Ex_08072024/API Testing_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_08072024/API_Testing_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_08072024/Lab175.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,6 +159,7 @@
     "Python.Lab169.executor": "Run",
     "Python.Lab170.executor": "Run",
     "Python.Lab171.executor": "Run",
+    "Python.Lab175.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
     "Python.lab050.executor": "Run",
@@ -465,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720098428386</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Added 06072024">
+      <option name="closed" value="true" />
+      <created>1720464086570</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1720464086570</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -485,6 +484,7 @@
     <MESSAGE value="Added 29062024" />
     <MESSAGE value="Added 03072024" />
     <MESSAGE value="Added 04072024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 04072024" />
+    <MESSAGE value="Added 06072024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 06072024" />
   </component>
 </project>
