@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 06072024">
-      <change afterPath="$PROJECT_DIR$/July/Ex_08072024/API Testing_1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_08072024/API_Testing_2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/Ex_08072024/Lab175.py" afterDir="false" />
+    <list default="true" id="3638b9dc-1ee6-4f78-b1f8-2b81487a13d6" name="Changes" comment="Added 08072024">
+      <change afterPath="$PROJECT_DIR$/July/Ex_22072024/Lab175.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_22072024/test_Lab180.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_22072024/test_Lab182.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_22072024/test_Lab183.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/July/Ex_22072024/test_lab181.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +54,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Python tests for test_Lab180.test_addition.executor": "Run",
+    "Python tests.Python tests for test_Lab180.test_sub.executor": "Run",
+    "Python tests.Python tests for test_lab181.test_sub.executor": "Run",
     "Python.#Recursion109.executor": "Run",
     "Python.01.executor": "Run",
     "Python.02.executor": "Run",
@@ -171,7 +176,7 @@
     "Python.task _1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/swapy/PycharmProjects/New_PyLearning3xATB/Ex_28062024",
+    "last_opened_file_path": "C:/Users/swapy/PycharmProjects/New_PyLearning3xATB/July/Ex_22072024",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
@@ -182,6 +187,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\swapy\PycharmProjects\New_PyLearning3xATB\July\Ex_22072024" />
       <recent name="C:\Users\swapy\PycharmProjects\New_PyLearning3xATB\Ex_28062024" />
       <recent name="C:\Users\swapy\PycharmProjects\New_PyLearning3xATB\Ex_26062024" />
       <recent name="C:\Users\swapy\PycharmProjects\New_PyLearning3xATB\Ex001_06062024" />
@@ -190,7 +196,7 @@
       <recent name="C:\Users\swapy\PycharmProjects\New_PyLearning3xATB\July" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab181.test_sub">
     <configuration name="Lab042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="New_PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
@@ -205,50 +211,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_12062024/Lab042.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab160" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="New_PyLearning3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/Ex_03072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Ex_03072024/Lab160.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab161" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="New_PyLearning3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/Ex_03072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/July/Ex_03072024/Lab161.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,12 +241,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab180.test_addition" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="New_PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/Ex_22072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab180.test_addition&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab180.test_sub" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="New_PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/Ex_22072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab180.test_sub&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab181.test_sub" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="New_PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/July/Ex_22072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab181.test_sub&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab181.test_sub" />
+        <item itemvalue="Python tests.Python tests for test_Lab180.test_addition" />
+        <item itemvalue="Python tests.Python tests for test_Lab180.test_sub" />
         <item itemvalue="Python.Lab042" />
         <item itemvalue="Python.Lab162" />
-        <item itemvalue="Python.Lab161" />
-        <item itemvalue="Python.Lab160" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720464086570</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added 08072024">
+      <option name="closed" value="true" />
+      <created>1720636638514</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1720636638514</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -485,6 +501,7 @@
     <MESSAGE value="Added 03072024" />
     <MESSAGE value="Added 04072024" />
     <MESSAGE value="Added 06072024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 06072024" />
+    <MESSAGE value="Added 08072024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 08072024" />
   </component>
 </project>
