@@ -4,7 +4,7 @@ def test_sub():
 # Pytest commands
 # - pytest -h ==help
 
-# - to run all th etest cases
+# - to run all the test cases - pytest
 #   pytest
 
 #  To run specific test
